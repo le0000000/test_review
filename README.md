@@ -2,4 +2,6 @@
 
 This is the original commit
 
-I am making change to the readme
+I am making changes to the readme.
+
+And adding another line.
